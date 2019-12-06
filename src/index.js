@@ -22,7 +22,7 @@ function getTime() {
     hours < 10 ? `0${hours}` : hours
   }</span>hours <span style='font-size:150px; font-family: Oswald; text-shadow : -1px -1px 0px #FFBB00, 3px 3px 0px #FFBB00, 6px  6px 0px #B77300;'>${
     minutes < 10 ? `0${minutes}` : minutes
-  }</span>mins </span>days <span style='font-size:150px; font-family: Oswald; text-shadow : -1px -1px 0px #FFBB00, 3px 3px 0px #FFBB00, 6px  6px 0px #B77300;'>${
+  }</span>mins </span> <span style='font-size:150px; font-family: Oswald; text-shadow : -1px -1px 0px #FFBB00, 3px 3px 0px #FFBB00, 6px  6px 0px #B77300;'>${
     seconds < 10 ? `0${seconds}` : seconds
   }</span>secs`;
 }
