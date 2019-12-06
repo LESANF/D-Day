@@ -5,7 +5,7 @@
 
 ## Conditions for Challenges
 
-✅ Make the D-Day Counter
+✅ Make the D-Day Counter  
 ✅ Try your hardest!
 
 ## Result
